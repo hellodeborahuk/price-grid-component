@@ -56,6 +56,10 @@ footer {
   margin-right: 0.5em;
 }
 
+.month {
+  color: #E5E5E5;
+}
+
 .subscription p {
   display: flex;
   align-items: center;
@@ -95,6 +99,7 @@ ul {
 
 li {
   padding-top: 0.5em;
+  color: #E5E5E5;
 }
 
 @media (min-width: 992px) {
