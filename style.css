@@ -59,7 +59,7 @@ footer {
 }
 
 .month {
-  color: #E5E5E5;
+  color: hsl(0,0%,100%, 0.6);
 }
 
 .subscription p {
@@ -101,7 +101,7 @@ ul {
 
 li {
   padding-top: 0.5em;
-  color: #E5E5E5;
+  color: hsl(0,0%,100%, 0.6);
 }
 
 @media (min-width: 992px) {
